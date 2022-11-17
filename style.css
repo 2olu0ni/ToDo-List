@@ -1,0 +1,15 @@
+div {
+  background-color: whitesmoke;
+  width: 50%;
+  margin: 0 auto;
+  text-align: center;
+  /* height: 150px; */
+  padding-bottom: 70px;
+}
+p {
+  background-color: pink;
+  border-radius: 5px;
+}
+.inp{
+  caret-color: red;
+}
